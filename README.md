@@ -10,7 +10,7 @@ Project was divided into smaller pieces:
 4. Analizing data regarding delays, wheather conditions, manufacture year etc. (by joining seperate tables)
 5. Creating reporting schema
 6. Creating a dashboard with the results
-7. 
+
 More specific descriptions are involved in each python notebook.
 
 ## File structure
